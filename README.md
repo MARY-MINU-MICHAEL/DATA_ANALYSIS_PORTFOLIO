@@ -20,5 +20,16 @@ In this section I will list the projects I did as part of a data analysis course
   **Skills**: Data cleaning,Dta analysis,Data visualization,Model building,Linear regression.
 
    **Technology**:Python, Pandas, Numpy, Scikit learn, Seaborn, Matplotlib.
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
 
 
