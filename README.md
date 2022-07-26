@@ -10,4 +10,4 @@ In this repository I would like to showcase various projects I did that are rela
 ## Study Projects
 In this section I'll provide links to the projects I did as a part of a Data analysis course I did on an online study platform called great learning.
 ### 1. Uber Data Analysis
-##### [Code:](https://[www.example](https://github.com/MARY-MINU-MICHAEL/Uber-Data-Analysis/blob/main/Uber_Data_Analysis.ipynb).com)
+##### Code:[Uber Data Analysis](https://github.com/MARY-MINU-MICHAEL/Uber-Data-Analysis/blob/main/Uber_Data_Analysis.ipynb)
