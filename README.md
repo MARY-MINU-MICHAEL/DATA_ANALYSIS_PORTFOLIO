@@ -2,14 +2,14 @@
 # Mary Minu Michael
 
 ## 🚀 About Me
-Hi, I'm Mary Minu MIchael! 👋I'm a data analyst who is taking baby steps towards the vast field of data analysis.I did my post graduation in Applied Statistics and data analytics and undergraduation in Mathematics. I have a very good background in Mathematics and Statistics and now I want to build a strong backgroundin data analystics field.
+Hi, I'm Mary Minu MIchael! 👋I'm a data analyst who is taking baby steps towards the vast field of data analytics.I did a post graduation in Applied Statistics and data analytics and an undergraduation in Mathematics. I have a very good background in Mathematics and Statistics and now I want to build a strong background in data analytics field.
 
 I was always fascinated about solving puzzles and playing with numbers. So I hope I'll be able to find interesting patterns and hence create valuable insights from a dataset just like solving a puzzle.
 
 In this repository I would like to showcase my skills and upload projects I did related to Data Analysis / Data Science field and hence to track my progress in these fields.
 
 ## Study projects
-In this section I will list the projects I did as part of a data analysis course i did on the online learning platform called great learning.
+In this section I will list the projects I did as part of a data analysis course I did on the online learning platform called great learning.
   ### 1. Uber Data Analysis
   **Code**: [Uber Data Analysis](https://github.com/MARY-MINU-MICHAEL/Data-Analysis-Portfolio/blob/main/Uber_Data_Analysis.ipynb)
 
