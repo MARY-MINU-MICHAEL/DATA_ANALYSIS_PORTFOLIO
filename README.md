@@ -7,5 +7,5 @@ I've always been fascinated in solving puzzles and playing with numbers. So I ho
 
 In this repository I would like to showcase various projects I did that are related to Data Analytics / Data Science and hence can track my progress in these fields.
 
-##Study Projects
+## Study Projects
 In this section I'll provide links to the projects I did as a part of a Data analysis course I did on an online study platform called great learning.
