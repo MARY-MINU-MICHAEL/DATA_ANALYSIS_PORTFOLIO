@@ -15,7 +15,7 @@ In this section I will list the projects I did as part of a data analysis course
 
 **Programming Language**: Python
 
-  **Description**: Two datasets containing the details about cab rides during the time December 2018 and details about weather at that time are used for this project.Several visualizations showing the relationship between weather and number of car rides is shown in this project. A model for price prediction of cabs using linear regression is also made in this project.
+  **Description**: Two datasets containing the details about cab rides during the time December 2018 and details about weather at that time are used for this project.Several visualizations showing the relationship between weather and number of cab rides are shown in this project. A model for price prediction of cabs using linear regression is also made in this project.
 
   **Skills**: Data cleaning,Data analysis,Data visualization,Model building,Linear regression.
 
