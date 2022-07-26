@@ -2,6 +2,7 @@
 # Mary Minu Michael
 
 ## 🚀 About Me
+[Uber](https://github.com/MARY-MINU-MICHAEL/Data-Analysis-Portfolio#Uber-Data-Analysis
 Hi, I'm Mary Minu MIchael! 👋I'm a data analyst who is taking baby steps towards the vast field of data analysis.I did my post graduation in Applied Statistics and data analytics and undergraduation in Mathematics. I have a very good background in Mathematics and Statistics and now I want to build a strong backgroundin data analystics field.
 
 I was always fascinated about solving puzzles and playing with numbers. So I hope I'll be able to find interesting patterns and hence create valuable insights from a dataset just like solving a puzzle.
@@ -17,7 +18,7 @@ In this section I will list the projects I did as part of a data analysis course
 
   **Description**: Two datasets containing the details about cab rides during the time December 2018 and details about weather at that time are used for this project.Several visualizations showing the relationship between weather and number of car rides is shown in this project. A model for price prediction of cabs using linear regression is also made in this project.
 
-  **Skills**: Data cleaning,Dta analysis,Data visualization,Model building,Linear regression.
+  **Skills**: Data cleaning,Data analysis,Data visualization,Model building,Linear regression.
 
    **Technology**:Python, Pandas, Numpy, Scikit learn, Seaborn, Matplotlib.
    
