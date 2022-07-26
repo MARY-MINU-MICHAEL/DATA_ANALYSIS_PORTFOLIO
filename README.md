@@ -1,5 +1,25 @@
 
-# 
+# Mary Minu Michael
 
-A brief description of what this project does and who it's for
+## 🚀 About Me
+Hi, I'm Mary Minu MIchael! 👋I'm a data analyst who is taking baby steps towards the vast field of data analysis.I did my post graduation in Applied Statistics and data analytics and undergraduation in Mathematics. I have a very good background in Mathematics and Statistics and now I want to build a strong backgroundin data analystics field.
 
+I was always fascinated about solving puzzles and playing with numbers. So I hope I'll be able to find interesting patterns and hence create valuable insights from a dataset just like solving a puzzle.
+
+In this repository I would like to showcase my skills and upload projects I did related to Data Analysis / Data Science field and hence to track my progress in these fields.
+
+## Study projects
+  ### 1. Uber Data Analysis
+  **Code**: [Uber Data Analysis](https://github.com/MARY-MINU-MICHAEL/Data-Analysis-Portfolio/blob/main/Uber_Data_Analysis.ipynb)
+
+**Programming Language**: Python
+
+  **Description**: Two datasets containing the details about cab rides during the time December 2018 and details about weather at that time are used for this project.Several visualizations showing the relationship between weather and number of car rides is shown in this project. A model for price prediction of cabs using linear regression is also made in this project.
+
+  **Skills**: Data cleaning,Dta analysis,Data visualization,Model building,Linear regression.
+
+   **Technology**:Python, Pandas, Numpy, Scikit learn, Seaborn, Matplotlib.
+
+  [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
