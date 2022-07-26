@@ -12,6 +12,6 @@ In this section I'll provide links to the projects I did as a part of a Data ana
 ### 1. Uber Data Analysis
 ##### Code:[Uber Data Analysis](https://github.com/MARY-MINU-MICHAEL/Uber-Data-Analysis/blob/main/Uber_Data_Analysis.ipynb)
 ##### Programming Language:Python
-##### Description:Two datasets containing the information about cab rides during the time Deceber 2018 and weather during that particular time are used to do this project.Several visualizations showing the relationship between weather and Number of cab rides is shown.A model for predicting the price of the cab using linear regression was also built during this project.
+##### Description:****Two datasets containing the information about cab rides during the time Deceber 2018 and weather during that particular time are used to do this project.Several visualizations showing the relationship between weather and Number of cab rides is shown.A model for predicting the price of the cab using linear regression was also built during this project.****
 #### Skills:Data cleaning,Data visualization,pyhton coding,Model Building ,Linear Regression
 #### Technology:Python, Pandas, Numpy, SciKit learn, Seaborn, Matplotlib
