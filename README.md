@@ -19,3 +19,4 @@ Two datasets containing the information about cab rides during the time Deceber 
 Data cleaning,Data visualization,pyhton coding,Model Building ,Linear Regression
 #### Technology:
 Python, Pandas, Numpy, SciKit learn, Seaborn, Matplotlib
+
