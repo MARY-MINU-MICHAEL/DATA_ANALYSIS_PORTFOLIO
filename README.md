@@ -6,7 +6,7 @@ Hi, I'm Mary Minu MIchael! 👋I'm a data analyst who is taking baby steps towar
 
 I was always fascinated about solving puzzles and playing with numbers. So I hope I'll be able to find interesting patterns and hence create valuable insights from a dataset just like solving a puzzle.
 
-In this repository I would like to showcase my skills and upload projects I did related to Data Analysis / Data Science field and hence to track my progress in these fields.
+**In this repository I would like to showcase my skills and upload projects I did related to Data Analysis / Data Science field and hence to track my progress in these fields.**
 
 ## Study projects
 In this section I will list the projects I did as part of a data analysis course I did on the online learning platform called great learning.
@@ -21,7 +21,7 @@ In this section I will list the projects I did as part of a data analysis course
 
    **Technology**:Python, Pandas, Numpy, Scikit learn, Seaborn, Matplotlib.
    
-Here you can see some simple and complex projects I did as part of the online Data science and AI course I am doing from an online study platform called Avodha.
+**Here you can see some simple and complex projects I did as part of the online Data science and AI course I am doing from an online study platform called Avodha.**
 ### 1. Python Libraries
   **[Matplotlib-and-Seaborn](https://github.com/MARY-MINU-MICHAEL/Matplotlib-and-Seaborn)**
   
