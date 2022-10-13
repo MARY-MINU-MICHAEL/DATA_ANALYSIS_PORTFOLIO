@@ -23,7 +23,7 @@ In this section I will list the projects I did as part of a data analysis course
    
 Here you can see some simple and complex projects I did as part of the online Data science and AI course I am doing from an online study platform called Avodha.
 ### 1. Python Libraries
-  **[Matplotlib-and-Seaborn]([https://github.com/MARY-MINU-MICHAEL/Matplotlib-and-Seaborn])**
+  **[Matplotlib-and-Seaborn](https://github.com/MARY-MINU-MICHAEL/Matplotlib-and-Seaborn)**
   
   
 
