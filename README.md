@@ -21,6 +21,10 @@ In this repository I would like to showcase my skills and upload projects I did 
 
    **Technology**:Python, Pandas, Numpy, Scikit learn, Seaborn, Matplotlib.
    
+   
+   
+   
+   
 **Here you can see some simple and complex projects I did as part of the online Data science and AI course I am doing from an online study platform called Avodha.**
 ### 1. Python Libraries
   **[Matplotlib-and-Seaborn](https://github.com/MARY-MINU-MICHAEL/Matplotlib-and-Seaborn)**
