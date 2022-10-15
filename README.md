@@ -21,7 +21,7 @@ In this repository I would like to showcase my skills and upload projects I did 
   
 **Here you can see some simple and complex projects I did as part of the online Data science and AI course I am doing from an online study platform called Avodha.**
 ### 1. Python Libraries
-  **[Matplotlib-and-Seaborn](https://github.com/MARY-MINU-MICHAEL/Data-Analysis-Portfolio/blob/main/Uber_Data_Analysis.ipynb)**
+ **Code**:[Matplotlib-and-Seaborn](https://github.com/MARY-MINU-MICHAEL/Data-Analysis-Portfolio/blob/main/Uber_Data_Analysis.ipynb)
   
 ### 2. TODO LIST APP
   **Code**: [TODO LIST APP](https://github.com/MARY-MINU-MICHAEL/TODO-LIST-APP)
