@@ -9,7 +9,7 @@ I was always fascinated about solving puzzles and playing with numbers. So I hop
 In this repository I would like to showcase my skills and upload projects I did related to Data Analysis / Data Science field and hence to track my progress in these fields.
 
 ## Study projects
-** In this section I will list the projects I did as part of a data analysis course I did on the online learning platform called great learning.**
+**In this section I will list the projects I did as part of a data analysis course I did on the online learning platform called great learning.**
   ### 1. Uber Data Analysis
   **Code**: [Uber Data Analysis](https://github.com/MARY-MINU-MICHAEL/Data-Analysis-Portfolio/blob/main/Uber_Data_Analysis.ipynb)
 
