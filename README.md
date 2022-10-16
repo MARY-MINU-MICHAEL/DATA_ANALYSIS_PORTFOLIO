@@ -28,6 +28,30 @@ In this repository I would like to showcase my skills and upload projects I did 
   **Description**: A simple TODO LIST App is made using Flask framework
   
   **Languages**:Python,HTML
+  
+  
+### 4. Iris Flower Classification
+
+**Code**:[Iris flower classification](https://github.com/MARY-MINU-MICHAEL/LGMVIP-TASK1/blob/main/LGMVIP_IRIS_DATASET_TASK_1.ipynb)
+
+**Programming Language**:Python
+
+**Description**: Exploratory data analysis and data visualizations are done on iris flower dataset using pyhton.K Means clustering is used to find out the optimum number of cluster in the iris dataset.
+
+**Skills**:Data analysis,Exploratory data analysis, Data visualization,Model building,K Means clustering
+
+### 5. IMAGE TO PENCIL SKETCH USING PYTHON
+
+**Code**:[IMAGE TO PENCIL SKETCH USING PYTHON](https://github.com/MARY-MINU-MICHAEL/LGMVIP-TASK-2/blob/main/LGMVIP%20(1).ipynb)
+
+**Programming Language**:Python
+
+**Description**: Using the python imaging library the image of aflower is converted to various forms like grayscale image, blurred image etc.
+
+**Skills**:Python imaging library(PIL),Python
+
+
+
 
   
   
