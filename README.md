@@ -46,7 +46,7 @@ In this repository I would like to showcase my skills and upload projects I did 
 
 **Programming Language**:Python
 
-**Description**: Using the python imaging library the image of aflower is converted to various forms like grayscale image, blurred image etc.
+**Description**: Using the python imaging library image of a flower is converted to various forms like grayscale image, blurred image etc.
 
 **Skills**:Python imaging library(PIL),Python
 
