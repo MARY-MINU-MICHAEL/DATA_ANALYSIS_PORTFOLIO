@@ -1,70 +1,37 @@
+# 🗺 Minu's Portfolio
 
-# Mary Minu Michael
+Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
 
-## 🚀 About Me
-Hi, I'm Mary Minu MIchael! 👋I'm an aspiring data analyst who is taking baby steps towards the vast field of data analytics.I did a post graduation in Applied Statistics and data analytics and an undergraduation in Mathematics. I have a very good background in Mathematics and Statistics and now I want to build a strong background in data analytics field.
+## 📚 Table of Contents
 
-I was always fascinated about solving puzzles and playing with numbers. So I hope I'll be able to find interesting patterns and hence create valuable insights from a dataset just like solving a puzzle.
+- [Python](#python)
+- [SQL](#sql)
+- [Power BI](#power-bi)
 
-In this repository I would like to showcase my skills and upload projects I did related to Data Analysis / Data Science field and hence to track my progress in these fields.
+# Python
 
-## Study projects
-**Here you can see some simple and complex projects I did as part of some online courses and internships.**
-  ### 1. Uber Data Analysis
-  **Code**: [Uber Data Analysis](https://github.com/MARY-MINU-MICHAEL/Data-Analysis-Portfolio/blob/main/Uber_Data_Analysis.ipynb)
+| Project Link | Area | Project Description | Skills |
+| --- | --- | --- | --- |
+| 🚗 [Uber Data Analysis](https://github.com/MARY-MINU-MICHAEL/DATA_ANALYSIS_PORTFOLIO/blob/main/Uber_Data_Analysis.ipynb) | Data cleaning, EDA, predictive modelling | Analysed cab ride and weather datasets from December 2018. Visualised the relationship between weather and the number of rides, and built a linear regression model to predict cab prices. | Data cleaning, data visualization, linear regression |
+| 📊 [Matplotlib and Seaborn](https://github.com/MARY-MINU-MICHAEL/Data-Analysis-Portfolio/blob/main/Uber_Data_Analysis.ipynb) | Data visualization | Practice with Python's visualization libraries, Matplotlib and Seaborn. | Matplotlib, Seaborn |
+| 🌸 [Iris Flower Classification](https://github.com/MARY-MINU-MICHAEL/LGMVIP-TASK1/blob/main/LGMVIP_IRIS_DATASET_TASK_1.ipynb) | EDA, clustering | Explored and visualized the iris flower dataset, then used K-Means clustering to find the optimum number of clusters. | EDA, data visualization, K-Means clustering |
+| ✏️ [Image to Pencil Sketch](https://github.com/MARY-MINU-MICHAEL/LGMVIP-TASK-2/blob/main/LGMVIP%20(1).ipynb) | Image processing | Used the Python Imaging Library to convert an image of a flower into forms such as grayscale and blurred images. | Python Imaging Library (PIL) |
+| ✅ [TODO List App](https://github.com/MARY-MINU-MICHAEL/TODO-LIST-APP) | Web app | Built a simple TODO list app using the Flask framework. | Python, Flask, HTML |
 
-**Programming Language**: Python
+---
 
-  **Description**: Two datasets containing the details about cab rides during the time December 2018 and details about weather at that time are used for this project.Several visualizations showing the relationship between weather and number of cab rides are shown in this project. A model for price prediction of cabs using linear regression is also made in this project.
+# SQL
 
-  **Skills**: Data cleaning,Data analysis,Data visualization,Model building,Linear regression.
- 
-### 2. Python Libraries
- **Code**:[Matplotlib-and-Seaborn](https://github.com/MARY-MINU-MICHAEL/Data-Analysis-Portfolio/blob/main/Uber_Data_Analysis.ipynb)
-  
-### 3. TODO LIST APP
-  **Code**: [TODO LIST APP](https://github.com/MARY-MINU-MICHAEL/TODO-LIST-APP)
-  
-  **Description**: A simple TODO LIST App is made using Flask framework
-  
-  **Languages**:Python,HTML
-  
-  
-### 4. Iris Flower Classification
+| Project Link | Area of Analysis | Project Description |
+| --- | --- | --- |
+| 💡 Coming soon | | I'm currently learning SQL and will add my case studies and projects here. |
 
-**Code**:[Iris flower classification](https://github.com/MARY-MINU-MICHAEL/LGMVIP-TASK1/blob/main/LGMVIP_IRIS_DATASET_TASK_1.ipynb)
+---
 
-**Programming Language**:Python
+# Power BI
 
-**Description**: Exploratory data analysis and data visualizations are done on iris flower dataset using pyhton.K Means clustering is used to find out the optimum number of cluster in the iris dataset.
+| Project Link | Project Description | Dashboard Link |
+| --- | --- | --- |
+| 📈 Coming soon | | |
 
-**Skills**:Data analysis,Exploratory data analysis, Data visualization,Model building,K Means clustering
-
-### 5. IMAGE TO PENCIL SKETCH USING PYTHON
-
-**Code**:[IMAGE TO PENCIL SKETCH USING PYTHON](https://github.com/MARY-MINU-MICHAEL/LGMVIP-TASK-2/blob/main/LGMVIP%20(1).ipynb)
-
-**Programming Language**:Python
-
-**Description**: Using the python imaging library image of a flower is converted to various forms like grayscale image, blurred image etc.
-
-**Skills**:Python imaging library(PIL),Python
-
-
-
-
-  
-  
-
-
-   
-   
-   
-   
-   
-   
-   
-   
-   
-
-
+---
