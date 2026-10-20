@@ -21,9 +21,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 # SQL
 
-| Project Link | Area of Analysis | Project Description |
-| --- | --- | --- |
-| 🍽️ [8 Week SQL Challenge](https://github.com/MARY-MINU-MICHAEL/8-week-sql-challenge) | Data analysis, customer behavior, subscriptions, marketing | Working through Danny Ma's eight case studies, documenting my SQL solutions and key findings. The challenge covers businesses including Danny's Diner, Pizza Runner, Foodie-Fi, Data Bank, Data Mart, Clique Bait, Balanced Tree Clothing Co., and Fresh Segments. |
+| Project Link | Area of Analysis | Project Description | Skills |
+| --- | --- | --- | --- |
+| 🍽️ [8 Week SQL Challenge](https://github.com/MARY-MINU-MICHAEL/8-week-sql-challenge) | Data analysis, customer behavior, marketing | Solving eight business case studies and documenting findings. | SQL, joins, aggregations, CTEs, data cleaning, window functions |
 
 ---
 
